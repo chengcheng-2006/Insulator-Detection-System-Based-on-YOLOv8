@@ -1,0 +1,7 @@
+train: dataset
+val: dataset
+
+nc: 1
+
+names:
+  - insulator
