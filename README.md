@@ -66,7 +66,7 @@ README.md              # project documentation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/insulator-detection.git
+git clone https://github.com/chengcheng-2006/insulator-detection.git
 
 Install required dependencies:
 
